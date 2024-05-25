@@ -17,8 +17,7 @@ public class FirstClass {
 		// TODO Auto-generated method stub
 		
 		fun();
-		fun1();
-		
+		fun1();	
 
 	}
 
