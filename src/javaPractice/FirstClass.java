@@ -11,6 +11,10 @@ public class FirstClass {
 	{
 		System.out.println("kolkata");
 	}
+	public static void fun2()
+	{
+		System.out.println("delhi");
+	}
 	
 	
 	public static void main(String[] args) {
