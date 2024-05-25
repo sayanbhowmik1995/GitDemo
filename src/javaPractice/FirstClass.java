@@ -3,16 +3,21 @@ package javaPractice;
 public class FirstClass {
 
 	
-	public void getData()
+	public static void fun()
 	{
-		System.out.println("Fuck off");
+		System.out.println("Hello");
 	}
+	public static void fun1()
+	{
+		System.out.println("kolkata");
+	}
+	
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		FirstClass x=new FirstClass();
-		System.out.println(x.getData());
+		fun();
+		fun1();
 		
 
 	}
