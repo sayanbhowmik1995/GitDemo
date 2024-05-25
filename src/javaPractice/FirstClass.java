@@ -15,6 +15,10 @@ public class FirstClass {
 	{
 		System.out.println("delhi");
 	}
+	public static void fun3()
+	{
+		System.out.println("delhi");
+	}
 	
 	
 	public static void main(String[] args) {
@@ -22,6 +26,8 @@ public class FirstClass {
 		
 		fun();
 		fun1();	
+		fun2();
+		fun3();
 
 	}
 
