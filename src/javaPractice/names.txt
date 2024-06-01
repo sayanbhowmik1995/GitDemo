@@ -1,1 +1,6 @@
 resolving git merge conflict.
+
+learn git fast.
+
+next ci-cd.
+
