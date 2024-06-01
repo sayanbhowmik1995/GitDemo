@@ -1,5 +1,6 @@
-Git practice - resolving git merge conflict.
+resolving git merge conflict.
 
 learn git fast.
 
 next ci-cd.
+
