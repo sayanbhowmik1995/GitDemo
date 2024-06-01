@@ -1,1 +1,3 @@
 Git practice - resolving git merge conflict.
+
+learn git fast.
